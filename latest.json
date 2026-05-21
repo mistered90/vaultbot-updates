@@ -1,7 +1,9 @@
 {
   "version": "4.0.0",
   "releaseDate": "2026-05-21T00:00:00.000Z",
-  "installerUrl": "https://github.com/mistered90/vaultbot-updates/releases/download/v4.0.0/Install-VaultBot.exe",
+  "manual": true,
+  "downloadMode": "manual",
+  "message": "Update available. Get the installer directly from the VaultBot owner.",
   "sha256": "",
   "mandatory": false,
   "notes": [
