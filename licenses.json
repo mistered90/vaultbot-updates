@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "issuer": "VaultBot",
+  "generatedAt": "2026-05-21T17:16:39.560Z",
+  "licenses": [
+    {
+      "name": "Owner - Main PC",
+      "keyHash": "742d1872539f92c0d17033181b413deed0cce52e9fdd2d8cec5ea2eb65afb9b4",
+      "machines": [
+        "756b4ac184e933f39a554a6b8935e56507a907f9670b57645cc8a453824e8d7f"
+      ],
+      "status": "active",
+      "expiresAt": null,
+      "createdAt": "2026-05-21T17:15:58.675Z"
+    }
+  ],
+  "signature": "VwSUIAINZxedi0g0LMKLMuyKDxgfUAzy57iiayx+7KbKO9Cp5XbW2NBM3QhqOsfafWLp9ZcUzobnhOx/jTMbBA=="
+}
