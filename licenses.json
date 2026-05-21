@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "issuer": "VaultBot",
-  "generatedAt": "2026-05-21T17:20:56.787Z",
+  "generatedAt": "2026-05-21T17:27:10.754Z",
   "licenses": [
     {
       "name": "Owner - Main PC",
@@ -34,5 +34,5 @@
       "createdAt": "2026-05-21T17:20:56.786Z"
     }
   ],
-  "signature": "99jd7Tlniob7UmewEtng9e9q6hQY7BsDMYoYBVeqqDc6VtSE/9+yCsgn9Ce5d8SVjQDJQlXUzitrAg03HIScDw=="
+  "signature": "scID911Iktiex5W8w6p+SMDQCuR0uLHLali2NjbKU4DerRdvp8QxbvUbmvcATab0irAPDDK+O1qdEwC1dN2zBQ=="
 }
