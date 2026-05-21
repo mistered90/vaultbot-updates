@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "issuer": "VaultBot",
-  "generatedAt": "2026-05-21T17:16:39.560Z",
+  "generatedAt": "2026-05-21T17:20:02.314Z",
   "licenses": [
     {
       "name": "Owner - Main PC",
@@ -12,7 +12,17 @@
       "status": "active",
       "expiresAt": null,
       "createdAt": "2026-05-21T17:15:58.675Z"
+    },
+    {
+      "name": "Owner - Main PC stable",
+      "keyHash": "079b7a564b8dc50e035ee7daab21de6c06014775998ec7a4a656d086051c42e3",
+      "machines": [
+        "2f403eeee17ec593ba593364771541a42009b0364ee9a4a1c467f47bca5f871a"
+      ],
+      "status": "active",
+      "expiresAt": null,
+      "createdAt": "2026-05-21T17:20:02.313Z"
     }
   ],
-  "signature": "VwSUIAINZxedi0g0LMKLMuyKDxgfUAzy57iiayx+7KbKO9Cp5XbW2NBM3QhqOsfafWLp9ZcUzobnhOx/jTMbBA=="
+  "signature": "KZ2X9SgIGPU6NogrgF7VpNraKDFQd6dZox3Aty9/1juKPbArSDsSjeUMaiM8jkOZZCWSqqg/T80oHuwfCZy4CQ=="
 }
