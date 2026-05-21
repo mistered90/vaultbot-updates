@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "issuer": "VaultBot",
-  "generatedAt": "2026-05-21T17:20:02.314Z",
+  "generatedAt": "2026-05-21T17:20:56.787Z",
   "licenses": [
     {
       "name": "Owner - Main PC",
@@ -22,7 +22,17 @@
       "status": "active",
       "expiresAt": null,
       "createdAt": "2026-05-21T17:20:02.313Z"
+    },
+    {
+      "name": "Owner - Real App",
+      "keyHash": "c4c714ece58c02ecaed8b64d928fe82df43ef486584de2dd87c476cdc1508e38",
+      "machines": [
+        "6f7f44507f1601d0dbd249d63f11c798c54655e59ea35908a92829f0f697e4ec"
+      ],
+      "status": "active",
+      "expiresAt": null,
+      "createdAt": "2026-05-21T17:20:56.786Z"
     }
   ],
-  "signature": "KZ2X9SgIGPU6NogrgF7VpNraKDFQd6dZox3Aty9/1juKPbArSDsSjeUMaiM8jkOZZCWSqqg/T80oHuwfCZy4CQ=="
+  "signature": "99jd7Tlniob7UmewEtng9e9q6hQY7BsDMYoYBVeqqDc6VtSE/9+yCsgn9Ce5d8SVjQDJQlXUzitrAg03HIScDw=="
 }
